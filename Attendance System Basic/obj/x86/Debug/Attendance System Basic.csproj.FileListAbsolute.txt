@@ -1,0 +1,26 @@
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Attendance System Basic.exe
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Attendance System Basic.pdb
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Form1.resources
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Properties.Resources.resources
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.csproj.GenerateResource.Cache
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.exe
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.pdb
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.AttendanceRegistration.resources
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.AttendnaceMarking.resources
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Report.resources
+E:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.ViewProfiles.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Attendance System Basic.exe
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Attendance System Basic.pdb
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.csprojAssemblyReference.cache
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.AttendanceRegistration.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.AttendnaceMarking.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Form1.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Properties.Resources.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.Report.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance_System_Basic.ViewProfiles.resources
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.csproj.GenerateResource.cache
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.csproj.CopyComplete
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.exe
+D:\DHA SUFFA UNIVERSITY\Semester 2\Codings\Attendance System Basic\Attendance System Basic\obj\x86\Debug\Attendance System Basic.pdb
